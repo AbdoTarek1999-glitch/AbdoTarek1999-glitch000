@@ -1,0 +1,12 @@
+
+.hello{text-align: center;}
+.left{border: 3px; flex-wrap: wrap; display: flex; float: 25% right;  background-color: gray; padding: 20px; margin: 10px; width: 235px; height: 1500px}
+.center{border: 3px; background-color: rgb(169, 169, 169); float: right; padding: 50px; margin: 15px; width: 900px;}
+.control{flex-wrap: wrap; background-color: black; display: inline; font-family: cursive}
+body{background-image: url(joy.png); background-repeat: repeat;}
+.Raptor{width: 250px; height: 250px; border: 10px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); align: center;}
+input{width: 100px; hight: 60px}
+.room{box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border: 10px solid #ddd; border: 10px solid #ddd; border-radius: 8px;}
+.M1Amrbs{width: 250px; height: 250px; border: 10px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); align: center}
+.AH-64{width: 250px; height: 250px; border: 10px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); align: right;}
+.Transport{width: 250px; height: 250px; border: 10px solid #ddd; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); align: right;}
